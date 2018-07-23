@@ -1,5 +1,5 @@
 pkg_name=osba-mysql-proxy
-pkg_origin=wer-sce
+pkg_origin=wer_sce
 pkg_version="0.1.2"
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_license=("Apache-2.0")

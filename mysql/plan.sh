@@ -1,5 +1,5 @@
 pkg_name=mysql
-pkg_origin=wer-sce
+pkg_origin=wer_sce
 pkg_version=5.7.17
 pkg_maintainer='The Habitat Maintainers <humans@habitat.sh>'
 pkg_license=('GPL-2.0')
